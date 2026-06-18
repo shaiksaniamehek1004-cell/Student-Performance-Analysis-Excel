@@ -1,5 +1,9 @@
 # Student Performance Analysis Dashboard
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sania%20Mehek%20Shaik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniamehekshaik1004)
+
+[![GitHub](https://img.shields.io/badge/GitHub-shaiksaniamehek1004--cell-black?logo=github&logoColor=white)](https://github.com/shaiksaniamehek1004-cell)
+
 ## Project Overview
 
 This project focuses on analyzing student academic performance using Microsoft Excel. The dashboard provides an interactive way to explore student marks, subject-wise performance, and overall academic trends through visualizations and KPI metrics.
