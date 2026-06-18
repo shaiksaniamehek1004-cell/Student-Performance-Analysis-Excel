@@ -76,7 +76,7 @@ Users can dynamically filter the dashboard using slicers based on:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Structure
 
