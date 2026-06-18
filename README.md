@@ -22,7 +22,7 @@ This project analyzes student performance across different subjects using Micros
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Author
 
