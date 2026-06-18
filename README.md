@@ -107,5 +107,6 @@ Aspiring Data Analyst | AI & Data Science Student
 
 ### Connect with Me
 
-* LinkedIn: Add your LinkedIn profile link here
-* GitHub: Add your GitHub profile link here
+* LinkedIn: www.linkedin.com/in/saniamehekshaik1004
+
+* GitHub: https://github.com/shaiksaniamehek1004-cell
